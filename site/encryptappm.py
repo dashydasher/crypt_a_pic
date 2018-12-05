@@ -17,10 +17,15 @@ def main():
         print("True")
         return 0
     except Exception as e:
+        print("petar je bio")
 
 
+<<<<<<< HEAD
 
         print("False abcd")
+=======
+        print("ovdje")
+>>>>>>> ae502d68582d02e2446306bb2a41f273b80a9410
         return 1
 
 if __name__ == '__main__':
